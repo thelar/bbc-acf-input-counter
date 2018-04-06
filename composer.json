@@ -1,0 +1,18 @@
+{
+  "name": "thelar/bbc-acf-input-counter",
+  "description": "",
+  "keywords": ["wordpress", "plugin", "search"],
+  "homepage": "https://github.com/thelar/bbc-acf-input-counter",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Kevin Price-Ward",
+      "email": "kevin@code-mill.co.uk",
+      "homepage": ""
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=7.1"
+  }
+}
